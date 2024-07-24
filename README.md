@@ -37,7 +37,7 @@ Scatter Plot of Car Prices: A scatter plot is created to show the relationship b
 # 7. Calculating Averages
 The average price and average kilometers driven for the cars in the dataset are calculated and printed. This provides a summary statistic that gives an overall view of the data.
 
-# Coclusion
+# Conclusion
 This project demonstrates the process of cleaning and analyzing car data obtained from web scraping. By handling missing data, removing outliers, and visualizing the data, valuable insights can be gained. This analysis can be extended further to include more sophisticated models and predictions based on the car data.
 
 
