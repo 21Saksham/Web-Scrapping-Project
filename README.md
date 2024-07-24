@@ -1,3 +1,8 @@
+# Evoastra Ventures Pvt Ltd
+![image](https://github.com/user-attachments/assets/af86c526-71ba-41e9-9cc1-7d0adc66ac3f)
+
+Data Science Internship Project [Team M]
+
 # Car Data Analysis(Web Scrapping Project)
 This project involves analyzing car data obtained from web scraping. The dataset includes information on car models, their prices, transmission types, and kilometers driven. The analysis includes handling missing data, detecting and removing outliers, and visualizing various aspects of the data.
 
@@ -41,5 +46,6 @@ The average price and average kilometers driven for the cars in the dataset are 
 This project demonstrates the process of cleaning and analyzing car data obtained from web scraping. By handling missing data, removing outliers, and visualizing the data, valuable insights can be gained. This analysis can be extended further to include more sophisticated models and predictions based on the car data.
 
 
+<noscript><a href='https://www.canva.com/design/DAGKKU9J3js/GU2WwBVl7JDbOuxpMhZ2gg/view?utm_content=DAGKKU9J3js&utm_campaign=designshare&utm_medium=link&utm_source=editor'><img alt='MINI-PROJECT-PRESENTATION' src='https://github.com/user-attachments/assets/2eed4680-356f-4b4c-a499-7891f5a37a46' style='border: none' /></a></noscript>
 
 
